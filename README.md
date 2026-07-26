@@ -1,187 +1,106 @@
-<div align="center">
+# 🙋‍♂️ About Me
 
-<img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Manish%20Kumar&desc=Building%20Intelligent%20Applications%20with%20AI,%20ML%20%26%20Full-Stack%20Development&fontSize=60&fontAlignY=42&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&section=header"/>
-# 👋 Hi, I'm Manish Kumar
+Pre-Final-year MCA student passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
 
-### 🚀 AI & Machine Learning Enthusiast • Full-Stack Developer 
+Building intelligent applications using **Python, FastAPI, LangChain, and Machine Learning** while continuously learning modern AI technologies.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Machine+Learning+Enthusiast;Full-Stack+Developer;Python+Programmer;Building+AI+Projects;Always+Learning+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=Manishk12-lang&label=Profile%20Views&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-🎓 Master's Student at **MNNIT Allahabad**
-
-💡 Passionate about building intelligent software using **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**.
-
-🌱 Currently Learning
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Natural Language Processing (NLP)
-- 🔥 Generative AI
-- 📚 RAG (Retrieval-Augmented Generation)
-- ⛓️ LangChain & LangGraph
-- 🌐 Full-Stack Development
-
-🎯 Goals
-
-- 🚀 Build real-world AI applications
-- 📖 Master Machine Learning & Deep Learning
-- 🤝 Contribute to Open Source
-- 💼 Secure an AI/ML Internship
-- 🌍 Develop scalable software products
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css"/>
-</p>
-
----
-
-## 🤖 AI & Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌐 Full-Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask"/>
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-</p>
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux"/>
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manishk12-lang&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishk12-lang&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishk12-lang&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-
-
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manishk12-lang&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-⭐ Machine Learning Projects
-
-⭐ Deep Learning Projects
-
-⭐ AI Chatbots
-
-⭐ Data Analysis Dashboards
-
-⭐ RAG Applications
-
-⭐ Full-Stack Web Applications
-
----
-
-# 📚 Currently Exploring
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- Generative AI
-- LangChain
-- LangGraph
-- FastAPI
-- Docker
+- 🤖 Currently exploring: Machine Learning · Deep Learning · LangChain · LangGraph · RAG
+- 🔭 Currently building: ML Projects · AI Chatbots · Full-Stack Applications
+- 🎯 Focus: AI Applications · FastAPI · Python · Vector Databases
+- 📚 Learning in Public: Sharing my AI & ML journey through GitHub
+- 🌐 Portfolio: Coming Soon
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="[https://linkedin.com/in/inmanishttu2425](https://www.linkedin.com/in/manishkumar212/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/manishkumar212/)">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="mailto:manishttu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:manishtttu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<div align="center">
+# 💻 Tech Stack
 
-## 💙 "Learn • Build • Share • Repeat"
+### 🤖 AI & Machine Learning
 
-### ⭐ Thanks for visiting my profile!
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-FF6A00?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=footer"/>
+---
 
-</div>
+### ⚡ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+---
+
+### 🛠️ Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+Git • GitHub • Docker • Linux • Vercel
+
+
+
+# 🚀 Current Goals
+
+- Build Production-Ready AI Applications
+- Master Machine Learning & Deep Learning
+- Learn Agentic AI
+- Contribute to Open Source
+- Secure an AI/ML Internship
+
+---
+
+> **"Code • Learn • Build • Repeat 🚀"**
