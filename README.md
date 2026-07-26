@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Manish%20Kumar&desc=Building%20Intelligent%20Applications%20with%20AI,%20ML%20%26%20Full-Stack%20Development&fontSize=60&fontAlignY=42&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&section=header"/>
-
 # 👋 Hi, I'm Manish Kumar
 
 ### 🚀 AI & Machine Learning Enthusiast • Full-Stack Developer 
@@ -114,17 +113,10 @@
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manishk12-lang&theme=algolia&column=4"/>
 
-</p>
-
----
 
 # 📈 Contribution Graph
 
